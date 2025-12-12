@@ -1,5 +1,5 @@
 ### Tools & Stuff
-[![](https://skillicons.dev/icons?i=git,c,cpp,py,neovim,bash,linux,arch)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,c,cpp,java,py,neovim,bash,linux,arch)](https://skillicons.dev)
 
 ---
 ### Stats
